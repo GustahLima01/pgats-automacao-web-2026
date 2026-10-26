@@ -1,0 +1,13 @@
+node_modules
+*.log
+results
+
+cypress/results
+cypress/screenshots
+cypress/reports/
+cypress/videos/
+cypress/downloads/
+
+.env.test
+
+.DS_Store
